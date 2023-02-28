@@ -1,0 +1,14 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "Node http Module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "YL"
+  ],
+  "author": "YING LIANG",
+  "license": "ISC"
+}
